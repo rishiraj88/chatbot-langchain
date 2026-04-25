@@ -1,2 +1,4 @@
 # chatbot-langchain
-a personalized Chatbot with LangChain
+a personalized Chatbot, built with with the following:
+- LangChain
+- fitz
